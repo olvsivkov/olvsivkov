@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Oleg! 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
+<h1 align="center">Hi there, I'm Oleg! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 
 <div id="badges" align="center">
   <a href="[linkedin](https://www.linkedin.com/)">
@@ -12,6 +11,8 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=olvsivkov&color=green)
 
 ---
 
