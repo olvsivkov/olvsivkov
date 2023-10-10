@@ -1,9 +1,8 @@
 <h1 align="center">
   Hi there, I'm Oleg!  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+
 <div id="badges">
   <a href="[linkedin](https://www.linkedin.com/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +16,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=olvsivkov&style=flat-square&color=blue" alt=""/>
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="600" height="300"/>
 </h1>
 
 ---
@@ -56,7 +55,7 @@ Hi! This is my little story. How did I get into web development? Once at work, I
 
 ---
 
-[![codewars](https://www.codewars.com/users/olvsivkov/large)](https://www.codewars.com/users/olvsivkov)   
+[![codewars](https://www.codewars.com/users/olvsivkov/badges/large)](https://www.codewars.com/users/olvsivkov)   
 
 <!--
 **olvsivkov/olvsivkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
