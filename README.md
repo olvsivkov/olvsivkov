@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Oleg!</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 
 <div id="badges" align="center">
   <a href="[linkedin](https://www.linkedin.com/)">
@@ -13,7 +13,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=olvsivkov&color=brightgreen"/>
+  <img src="https://komarev.com/ghpvc/?username=olvsivkov&color=brightgreen" width="75"/>
 </div>
 
 ---
