@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[WhatsApp](https://wa.me/79819512581)">
-     <img src="https://img.shields.io/badge/telegram-blue?logo=WhatsApp&logoColor=green&style=for-the-badge" alt="WhatsApp Badge"/>
+     <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=green&style=for-the-badge" alt="WhatsApp Badge"/>
   </a>
   <a href="[Telegram](https://t.me/olvsivkov)">
     <img src="https://img.shields.io/badge/telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -50,13 +50,11 @@ Hi! This is my little story. How did I get into web development? Once at work, I
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olvsivkov&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olvsivkov&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvsivkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![codewars](https://www.codewars.com/users/olvsivkov/badges/large)](https://www.codewars.com/users/olvsivkov)   
+[![codewars](https://www.codewars.com/users/rsschool_a103b1fd8fd212c8/badges/large)](https://www.codewars.com/users/rsschool_a103b1fd8fd212c8)   
 
 <!--
 **olvsivkov/olvsivkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
