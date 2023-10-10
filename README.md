@@ -1,12 +1,15 @@
-<h1 align="center">Hi there, I'm Oleg</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<h1 align="center">
+  Hi there, I'm Oleg!  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 <div id="badges">
   <a href="[linkedin](https://www.linkedin.com/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[WhatsApp](https://wa.me/79819512581)">
-     <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=green&style=for-the-badge" alt="WhatsApp Badge"/>
+     <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
   </a>
   <a href="[Telegram](https://t.me/olvsivkov)">
     <img src="https://img.shields.io/badge/telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -14,7 +17,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=olvsivkov&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -54,7 +56,7 @@ Hi! This is my little story. How did I get into web development? Once at work, I
 
 ---
 
-[![codewars](https://www.codewars.com/users/rsschool_a103b1fd8fd212c8/badges/large)](https://www.codewars.com/users/rsschool_a103b1fd8fd212c8)   
+[![codewars](https://www.codewars.com/users/olvsivkov/large)](https://www.codewars.com/users/olvsivkov)   
 
 <!--
 **olvsivkov/olvsivkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
