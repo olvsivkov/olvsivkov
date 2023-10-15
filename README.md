@@ -7,7 +7,7 @@
   <a href=`[WhatsApp](https://wa.me/79819512581)`>
      <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
   </a>
-  <a href=`[Telegram](https://t.me/olvsivkov)`>
+  <a href=`https://t.me/olvsivkov`>
     <img src="https://img.shields.io/badge/telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
