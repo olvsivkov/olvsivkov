@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Oleg! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 
 <div id="badges" align="center">
-  <a href="[linkedin](https://www.linkedin.com/)">
+  <a href=`[linkedin](https://www.linkedin.com/in/oleg-sivkov-233974295)`>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[WhatsApp](https://wa.me/79819512581)">
+  <a href=`[WhatsApp](https://wa.me/79819512581)`>
      <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
   </a>
-  <a href="[Telegram](https://t.me/olvsivkov)">
+  <a href=`[Telegram](https://t.me/olvsivkov)`>
     <img src="https://img.shields.io/badge/telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
@@ -20,6 +20,7 @@
 Hi! This is my little story. How did I get into web development? Once at work, I was writing a technical task for developers to make changes to the company's website. To do this, I learned how to make up and created several pages in HTML and CSS as a sample site and presented it to developers. I found it very interesting. After that, I decided that I wanted to go into frontend development and create a product. And here I am.
   </p>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
