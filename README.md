@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Oleg! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 
 <div id="badges" align="center">
-  <a href=`[linkedin](https://www.linkedin.com/in/oleg-sivkov-233974295)`>
+  <a href=`https://www.linkedin.com/in/oleg-sivkov-233974295/` target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=`[WhatsApp](https://wa.me/79819512581)`>
+  <a href=`https://wa.me/79819512581` target="_blank">
      <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
   </a>
-  <a href=`https://t.me/olvsivkov` rel="nofollow">
+  <a href=`https://t.me/olvsivkov` target="_blank">
     <img src="https://img.shields.io/badge/telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
