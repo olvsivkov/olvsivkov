@@ -17,7 +17,12 @@
 ### :man_technologist: About Me :
 <div>
   <p>
-Hi! This is my little story. How did I get into web development? Once at work, I was writing a technical task for developers to make changes to the company's website. To do this, I learned how to make up and created several pages in HTML and CSS as a sample site and presented it to developers. I found it very interesting. After that, I decided that I wanted to go into frontend development and create a product. And here I am.
+Hi! I am a Frontend developer.
+Work experience in the frontend is 2+ years.
+Developing an application from scratch: from an idea and a template on Figma to hosting on the server. Successfully worked with the team (3 frontend developers, 2 backend, 1 QA).
+Self-writing clean code from scratch.
+I am ready to work with someone else's code, refine it and refactor it.
+Experience in writing technical specifications and working with them.
   </p>
 </div>
 
